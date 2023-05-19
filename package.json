@@ -1,0 +1,16 @@
+{
+  "name": "projet-gtp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Abdel-Khafid ATOKOU",
+  "license": "ISC",
+  "dependencies": {
+    "n-readlines": "^1.0.1",
+    "xlsx": "^0.18.5"
+  }
+}
