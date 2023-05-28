@@ -4,7 +4,7 @@ const XLSX = require('xlsx');
 const lineByLine = require('n-readlines');
 
 // Lecture du fichier en entrée.
-const liner = new lineByLine('Export_202303.csv');
+const liner = new lineByLine('input.csv');
 
 //variable de lecture d'une ligne lue
 var line;
